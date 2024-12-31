@@ -16,11 +16,11 @@ A classic game of strategy and skill, now brought to your desktop with a sleek G
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/LakshayChhabra/tictactoe-python-gui.git
+    git clone https://github.com/LakshayChhabra248/My-Programs/Tic-Tac-Toe-Game.git
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd tictactoe-python-gui
+    cd Tic-Tac-Toe-Game
     ```
 3.  **Run the game:**
     ```bash
