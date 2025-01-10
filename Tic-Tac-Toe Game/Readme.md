@@ -4,7 +4,7 @@ A classic game of strategy and skill, now brought to your desktop with a sleek G
 
 ## ✨ Features
 
-*   **Intuitive GUI:** Play on a user-friendly 3x3 grid with a clean and modern interface built using Tkinter.
+*   **Intuitive GUI:** Play on a user-friendly 3x3 grid with a clean and modern interface built using Tkinter also supported on Android.
 *   **Two Game Modes:**
     *   **Player vs Player:** Challenge your friends in a local head-to-head match.
     *   **Player vs Computer:** Test your skills against a formidable AI opponent powered by the minimax algorithm.
